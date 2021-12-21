@@ -29,8 +29,8 @@ Then there are buttons to delete files in the left box or urls in the right box.
 &nbsp;
 
 The frontend was made using the Qt designer. With it, you can simply drag
-UI-Elements into a window (WYSIWYG-Editor). The code is written automatically
-using the qt-framework.
+UI-Elements into a window (WYSIWYG-Editor). The code for the GUI is written
+automatically using the qt-framework.
 
 &nbsp;
 
