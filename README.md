@@ -37,3 +37,7 @@ using the qt-framework.
 I had a lot of fun finding a solution to my problem. To learn python I have used
 [this](https://www.udemy.com/course/python-bootcamp/) german python course on
 udemy.
+
+# Screenshot
+
+![Screenshot](./SessionSaver_Screenshot.JPG)
